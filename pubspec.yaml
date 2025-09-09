@@ -1,6 +1,6 @@
 name: developer_mode_finder
 description: A Flutter plugin to detect if developer mode is enabled on Android devices and jailbreak status on iOS devices.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/developermanishdevan/developer_mode_finder
 repository: https://github.com/developermanishdevan/developer_mode_finder
 issue_tracker: https://github.com/developermanishdevan/developer_mode_finder/issues
